@@ -1,5 +1,5 @@
 
-![Mail Automation](/Users/mattshuff/Desktop/Mas_Ipynbs/mail automation.png)
+![Mail Automation](mail automation.png)
 
 
 
