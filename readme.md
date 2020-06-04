@@ -1,5 +1,5 @@
 
-![Mail Automation](mail automation.png)
+![Mail Automation](mail_automation.png)
 
 
 
